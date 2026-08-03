@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+*.log.*
+
+# Progress / checkpoint
+.conversion_progress.json
+
+# Temp files
+_cover_temp_*.jpg
+
+# Backup y archivos corruptos
+_backup/
+_corrupted/
+tmp/
+
+# Archivos de audio y video (biblioteca)
+*.mp3
+*.m4a
+*.opus
+*.flac
+*.ogg
+*.wma
+*.wav
+*.aac
+*.webm
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
